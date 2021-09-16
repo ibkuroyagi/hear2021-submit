@@ -17,3 +17,7 @@ pip install -e .
 ```
 hear-validator hearline --model ./saved_models/checkpoint-2821steps.pkl
 ```
+
+team name: ibkuroyagi
+module name: hearline
+model's URL: https://github.com/ibkuroyagi/hear2021-submit/blob/main/saved_models/checkpoint-2821steps.pkl
